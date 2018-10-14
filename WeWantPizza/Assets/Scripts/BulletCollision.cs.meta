@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 0796f8561303b8444aa1c1762750fadf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ShatteredAsteroid: {fileID: 4169777562943964, guid: cfbcdff366acd764692d96a00886e1b5,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
