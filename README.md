@@ -5,6 +5,8 @@ A quick infinite runner game developed during a 24hr Hackathon.
 ## Screenshots
 
 ![Screenshot1](/WeWantPizza/Screenshots/sc1.jpg?raw=true "Game")
+![Screenshot1](/WeWantPizza/Screenshots/sc2.jpg?raw=true "Game")
+![Screenshot1](/WeWantPizza/Screenshots/sc3.jpg?raw=true "Game")
 
 
 ## Getting Started
@@ -29,3 +31,4 @@ This project is licensed under the MIT License
 ## Acknowledgments
 
 * cgtrader.com for the spacecraft model
+* Dark Souls for the inspiration
