@@ -2,7 +2,9 @@
 
 A quick infinite runner game developed during a 24hr Hackathon. 
 
-![](/relative/path/to/img.jpg?raw=true "Optional Title")
+## Screenshots
+
+![Screenshot1](/WeWantPizza/Screenshots/sc1.jpg?raw=true "Game")
 
 
 ## Getting Started
