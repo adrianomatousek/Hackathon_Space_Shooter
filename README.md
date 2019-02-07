@@ -15,7 +15,7 @@ Import files into Unity.
 
 ### Prerequisites
 
-Unity 2018.2 (can be imported to versions above).
+Unity >=2018.2
 
 ## Built With
 
