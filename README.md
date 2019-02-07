@@ -16,7 +16,7 @@ Allow for compatibility import if prompted.
 Create keystore.
 Build.
 
-[Latest Downloadable APK - Android](WeWantPizza/first.apk)
+[Latest Downloadable APK - Android](https://github.com/adrianomatousek/Hackathon_Space_Shooter/raw/master/WeWantPizza/first.apk)
 
 
 ### Prerequisites
