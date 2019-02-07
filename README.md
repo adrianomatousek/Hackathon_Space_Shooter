@@ -12,6 +12,12 @@ A quick infinite runner game developed during a 24hr Hackathon.
 ## Getting Started
 
 Import files into Unity.
+Allow for compatibility import if prompted.
+Create keystore.
+Build.
+
+[Latest Downloadable APK - Android](WeWantPizza/first.apk)
+
 
 ### Prerequisites
 
